@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.math-output {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
